@@ -1,0 +1,8 @@
+<h1>Categorias: </h1>
+<hr>
+
+{{#each categories}}
+    <a href="/categories/{{slug}}" class="list-group-item list-group-item-action"><h5>{{name}}</h5></a>
+{{else}}
+    <h5>O blog ainda não possui categorias.</h5>
+{{/each}}
