@@ -32,5 +32,5 @@ It also has an authentication system using passport.js middleware.
 </ul>
   
 <h3>3. Running</h3>
-<p>The command to run this project is <code>node app.js</code> or <code>nodemon app.js</code>.</p>
+<p>The command to run this project is <code>node app.js</code>.</p>
 <p>You will find the project on <code>localhost:[PORT]</code>.</p>
